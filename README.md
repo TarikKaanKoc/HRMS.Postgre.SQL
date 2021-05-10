@@ -15,3 +15,5 @@
 * * *
 ### ER Diagram with PostgreSQL
 <p align="center"><img src="İmages/ER Diagram-postgresql-dark.1.png"></p>
+
+### This diagram was designed by karcan.
