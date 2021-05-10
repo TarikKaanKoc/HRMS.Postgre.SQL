@@ -15,6 +15,3 @@
 * * *
 ### ER Diagram with PostgreSQL
 <p align="center"><img src="İmages/ER Diagram-postgresql-dark.1.png"></p>
-
-### ER Diagram with MsSQL
-<p align="center"><img src="images/ER Diagram-mssql.3.png"></p>
