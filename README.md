@@ -13,6 +13,8 @@
     - <b>activation_code_to_candidates</b> <i>(candidates acivation method with activation code)</i>
   - <b>job_titles</b> <i>(job titles for job positions)</i>
 * * *
+*     - <b>Founder</b> <i>Tarık Kaan Koç</i>
+
 ### ER Diagram with PostgreSQL
 <p align="center"><img src="İmages/ER Diagram-postgresql-dark.1.png"></p>
 
