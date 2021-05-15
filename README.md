@@ -16,6 +16,6 @@
 * <b>Founder : </b> <i>Tarık Kaan Koç</i>
 
 ### ER Diagram with PostgreSQL
-<p align="center"><img src="İmages/ER Diagram-postgresql-dark.1.png"></p>
+<p align="center"><img src="İmage/ER Diagram-postgresql.png"></p>
 
 ### This diagram was designed by karcan.
