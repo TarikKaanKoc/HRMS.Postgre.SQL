@@ -14,5 +14,5 @@
 
 
 ### ER Diagram with PostgreSQL
-<p align="center"><img src="İmage/ER Diagram-postgresql.png"></p>
+<p align="center"><img src="İmage/ss.png"></p>
 
